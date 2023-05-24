@@ -1,0 +1,46 @@
+############################################
+## SAP ABAP HANA
+#Certifications
+Internal HANA Certification  
+ABAP on HANA Certification
+#############################################
+
+ABAPers
+
+iCertify Training - Certification specific to D.
+############################################
+##S4 HANA Overview
+############################################
+
+ECC was the earlier one before HANA
+
+In ECC u get the data from the DB
+
+With HANA everything is in done in memory but can also be done in the DB
+
+-> HANA is faster than the ECC system
+-> Allows OLTP and OLAP proceess in real time 
+
+-> OLTP - Online Transaction Processing 
+-> OLAP - Online Analytical Processing
+    This is used for display of charts and graphiical representation in real time
+
+-> HANA offers 5-20% more compression cause of Column based compression
+
+-> Up to 10000x faster. As it has higher parallel processing. Massive parallel processing
+
+############################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
