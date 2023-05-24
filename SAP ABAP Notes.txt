@@ -29,7 +29,46 @@ With HANA everything is in done in memory but can also be done in the DB
 
 -> Up to 10000x faster. As it has higher parallel processing. Massive parallel processing
 
+-> SAP Business Suite and SAP HANA Live
+
 ############################################
+
+Frontend has Fiori and Web based interface ensuring that the end user experience is improved
+
+
+### Four Main areas of benefits for customers
+## Integrated Reporting and Analytics
+## New user experience
+## Applciation Optimization
+## Optimized and Scalable solutions
+
+
+## Fiori will go on to replace SAP GUI
+## Business user will not need to logon into SAP GUI
+############################################
+
+#S4HANA Architecture
+
+
+In the past the Bottleneck was accessing of the memory from the DB
+
+The architecture has changed a lot in the past 
+-> insert only on delta on the DB tables
+
+
+## Row Store Architecture Highlights
+??
+## Column Store Architecture Highlights
+??
+## Mutli Version Concurrenct Control (MVCC)
+??
+## ACID Transaction - ??
+
+
+
+############################################
+
+
 
 
 
